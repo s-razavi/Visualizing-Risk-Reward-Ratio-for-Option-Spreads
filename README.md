@@ -1,4 +1,4 @@
-# Visualizing-Risk-Reward-Ratio-for-Option-Spreads
+# Visualizing Risk Reward Ratio for OptionSpreads
 
 This code uses simple math calculations to visualize reward/risk ratio and facilitates finding the right strikes for long/short vertical option spreads:
 Option contracts are exposed to time decay (extrinsic value of the option contracts). Time could be in favour or against the trade depending on the strikes of short/long spreads. The further a trader is bearish/bullish on a trade, the more he/she will agree to pay for the extrinsic value. 
